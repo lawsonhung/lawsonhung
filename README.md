@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning about different React libraries
 - 👯 I’m looking to collaborate on a hackathon
 - 🤔 I’m looking for help with testing
-- 💬 Ask me about Quantum Computers
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lawsonhung/) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hirelawson/) 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like taking a break from the computer by doing sports like tennis and NYC handball!
